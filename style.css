@@ -109,6 +109,7 @@ ul li button{
     font-size: 0.9rem;
     transition: all 0.3s;
     cursor: pointer;
+    border: none;
 }
 
 .btn-submit:focus{
